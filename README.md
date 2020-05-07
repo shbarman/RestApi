@@ -11,7 +11,7 @@ Spring Boot application with Redis database implementing the following REST API'
 For every above mentioned API endpoints, proper status codes are returned when validation check fails.
 If a resource at any given API is changed a new ETag value is generated to handle the **cache** thereby, making it more *efficient and saving bandwidth*.
 
-Elastic Search is implmenetd because of its high scalability and *NOSQLDB* property. It uses JSON document files and structure based documents instead of tables and schema.
+Elastic Search is implemented because of its high scalability and *NOSQLDB* property. It uses JSON document files and structure based documents instead of tables and schema.
 
 For specific to this project:-
 
