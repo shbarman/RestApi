@@ -1,4 +1,4 @@
-# REST API & Elastc Search Using Kibana
+# REST API & Elastic Search Using Kibana
 
 Spring Boot application with Redis database implementing the following REST API's:
 
